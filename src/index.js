@@ -1,4 +1,4 @@
-module.exports = module.exports = function getZerosCount(number, base) {
+module.exports = function getZerosCount(number, base) {
     let zeros = 0;
     let x = number;
     let y = base;
